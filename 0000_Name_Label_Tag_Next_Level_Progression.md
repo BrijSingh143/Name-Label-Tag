@@ -1,3 +1,40 @@
+Think of **Name, Label, and Tag** as three ways of referring to a human, but with different purposes:
+
+ | Concept | Human analogy | Purpose |
+| --- | --- | --- |
+| **Name** | “Rahul” | Identifies _who the person is_ |
+| **Label** | “Manager” | Describes _what the person is / how they are categorized_ |
+| **Tag** | “#remote”, “#python”, “#urgent” | Adds _useful attributes for finding/grouping_ |
+
+### Simple analogy
+
+ Imagine a person named **Rahul**:
+
+ - **Name:** Rahul Sharma\
+   → His primary identity.
+- **Label:** Employee / Manager / Customer\
+   → A category or role assigned to him.
+- **Tags:** `Python`, `Remote`, `Mumbai`, `High-priority`\
+   → Flexible descriptors that can be added or removed for organization and discovery.
+
+ ### Key distinction
+
+ **Name = identity**
+
+ > “Who is this?”
+
+ **Label = classification**
+
+ > “What kind of thing/person is this?”
+
+ **Tag = attribute/metadata**
+
+ > “What characteristics or topics are associated with this?”
+
+ A useful mental model is:
+
+ > **Name identifies. Label classifies. Tag describes/organizes.**
+
 If you mean a **next-level progression of the Name → Label → Tag analogy**, you can extend it like this:
 
  ### Human → Information Progression
